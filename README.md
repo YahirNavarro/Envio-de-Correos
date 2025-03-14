@@ -17,7 +17,7 @@ Una cuenta de Gmail con acceso a aplicaciones menos seguras activado.
 
 🛠 Instalación
 Clonar el repositorio:
-git clone https://github.com/tu-usuario/envio-correos.git
+git clone https://github.com/YahirNavarro/Envio-de-Correos/blob/main/Envio%20de%20correos.py
 Entrar en el directorio:
 cd envio-correos
 
